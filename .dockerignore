@@ -1,0 +1,2 @@
+# prevetn docker container already has node_modules will cause cannot replace to directory error
+node_modules
